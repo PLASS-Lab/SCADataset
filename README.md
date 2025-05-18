@@ -52,7 +52,7 @@ If you find this data useful for your research, please cite the following work.
 	author = {Seungun Park and Aria Seo and Muyoung Cheong and Hyunsu Kim and JaeCheol Kim and Yunsik Son},
 	year = {2025}
 }
-```
+```bibtex
 <p align="center">
   <a href="https://plass.dongguk.edu" target="_blank">
     <img src="https://github.com/sucystem/PLASS/blob/main/logo.png" width="400" alt="PLASS Lab, Dongguk University">
