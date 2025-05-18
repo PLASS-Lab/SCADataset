@@ -46,11 +46,11 @@ This dataset can be used for the following research and analysis purposes:
 If you find this data useful for your research, please cite the following work.
 ```bibtex
 @article{park2025evalHiding,
-	journal = {Preprints},
-	title = {Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks},
-	doi = {10.20944/preprints202505.1150.v1},
-	author = {Park, Seungun and Seo, Aria and Cheong, Muyoung and Kim, Hyunsu and Kim, JaeCheol and Son, Yunsik},
-	year = {2025}
+  journal = {Preprints},
+  title = {Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks},
+  doi = {10.20944/preprints202505.1150.v1},
+  author = {Park, Seungun and Seo, Aria and Cheong, Muyoung and Kim, Hyunsu and Kim, JaeCheol and Son, Yunsik},
+  year = {2025}
 }
 ```
 
