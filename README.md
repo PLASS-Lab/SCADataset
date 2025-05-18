@@ -43,7 +43,7 @@ This dataset can be used for the following research and analysis purposes:
 3. Studying power consumption patterns of cryptographic algorithms.
 
 ## Citation
-If you find this data useful for your research, please cite the following work.
+If you use this dataset for your research, please cite the following paper.
 ```bibtex
 @article{park2025evalHiding,
   journal = {Preprints},
