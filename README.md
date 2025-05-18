@@ -9,7 +9,6 @@
 </p>
 
 This repository contains the dataset for the paper:
-
 <a href="https://www.preprints.org/manuscript/202505.1150/v1" target="_blank">Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks</a>
 
 ## About
