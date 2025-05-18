@@ -1,4 +1,4 @@
-<p align="center" style="font-size:40px;font-family:TimesNewRoman">
+<p align="center" style="font-size:15%;font-family:TimesNewRoman">
   <b>SCADataset</b>
 </p>
 
@@ -7,7 +7,7 @@
   | 🏷️&nbsp;<a href="#dataset-description">Description</a>
   | 🪄&nbsp;<a href="#use-cases">Usecase</a>
   | 🔗&nbsp;<a href="#citation">Citation</a>
-  | 📝&nbsp;<a href="https://www.preprints.org/manuscript/202505.1150/v1">Paper</a>
+  | 📝&nbsp;<a href="https://www.preprints.org/manuscript/202505.1150/v1" target="_blank">Paper</a>
 </p>
 
 This repository contains the dataset for the <a href="https://www.preprints.org/manuscript/202505.1150/v1">Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks</a>
