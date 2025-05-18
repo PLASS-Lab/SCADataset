@@ -1,5 +1,18 @@
-# SCADataset
+<p align="center" style="font-size:40px;font-family:TimesNewRoman">
+  <b>SCADataset</b>
+</p>
 
+<p align="left">
+  🪪&nbsp;<a href="#about">About</a>
+  | 🏷️&nbsp;<a href="#dataset-description">Description</a>
+  | 🪄&nbsp;<a href="#use-cases">Usecase</a>
+  | 🔗&nbsp;<a href="#citation">Citation</a>
+  | 📝&nbsp;<a href="https://www.preprints.org/manuscript/202505.1150/v1">Paper</a>
+</p>
+
+This repository contains the dataset for the <a href="https://www.preprints.org/manuscript/202505.1150/v1">Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks</a>
+
+## About
 SCADataset is a dataset for Side-Channel Analysis (SCA) related to cryptographic algorithms. This dataset includes power consumption data during the execution of various cryptographic algorithms (DES, Hash, RSA) and can be utilized for research and analysis of side-channel analysis.
 
 ## Dataset Description
@@ -29,3 +42,21 @@ This dataset can be used for the following research and analysis purposes:
 1. Analyzing the vulnerability of hiding techniques to side-channel attacks.
 2. Training machine learning models for side-channel analysis.
 3. Studying power consumption patterns of cryptographic algorithms.
+
+## Citation
+If you find this data useful for your research, please cite the following work.
+```
+@article{park2025evalHiding,
+	journal = {Preprints},
+	title = {Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks},
+	doi = {10.20944/preprints202505.1150.v1},
+	author = {Seungun Park and Aria Seo and Muyoung Cheong and Hyunsu Kim and JaeCheol Kim and Yunsik Son},
+	year = {2025}
+}
+```
+
+<p align="center">
+  <picture>
+    <img alt="PLASS Lab, Dongguk University" src="https://lh6.googleusercontent.com/Bth02qugwaCLvUxCRuzlDeSjInFbMwIYLdOyWz3TiRmACFS40wf2NIPPaI6KVmDwPuT93A=w16383">
+  </picture>
+</p>
