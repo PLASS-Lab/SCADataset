@@ -1,4 +1,4 @@
-<h3 align="center"><strong>SCADataset</strong></h3>
+<h1 align="center"><strong>SCADataset</strong></h1>
 
 <p align="left">
   🪪&nbsp;<a href="#about">About</a>
@@ -53,9 +53,6 @@ If you find this data useful for your research, please cite the following work.
 	year = {2025}
 }
 ```
-
 <p align="center">
-  <picture>
-    <img alt="PLASS Lab, Dongguk University" src="https://lh6.googleusercontent.com/Bth02qugwaCLvUxCRuzlDeSjInFbMwIYLdOyWz3TiRmACFS40wf2NIPPaI6KVmDwPuT93A=w16383">
-  </picture>
+  <img src="https://github.com/sucystem/PLASS/blob/main/logo.png" width="400" alt="PLASS Lab, Dongguk University">
 </p>
