@@ -54,5 +54,7 @@ If you find this data useful for your research, please cite the following work.
 }
 ```
 <p align="center">
-  <img src="https://github.com/sucystem/PLASS/blob/main/logo.png" width="400" alt="PLASS Lab, Dongguk University">
+  <a href="https://plass.dongguk.edu" target="_blank">
+    <img src="https://github.com/sucystem/PLASS/blob/main/logo.png" width="400" alt="PLASS Lab, Dongguk University">
+  </a>
 </p>
