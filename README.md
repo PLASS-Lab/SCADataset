@@ -49,7 +49,7 @@ If you find this data useful for your research, please cite the following work.
 	journal = {Preprints},
 	title = {Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks},
 	doi = {10.20944/preprints202505.1150.v1},
-	author = {Seungun Park and Aria Seo and Muyoung Cheong and Hyunsu Kim and JaeCheol Kim and Yunsik Son},
+	author = {Park, Seungun and Seo, Aria and Cheong, Muyoung and Kim, Hyunsu and Kim, JaeCheol and Son, Yunsik},
 	year = {2025}
 }
 ```
