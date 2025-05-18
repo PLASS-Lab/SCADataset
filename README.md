@@ -3,7 +3,7 @@
 <p align="left">
   🪪&nbsp;<a href="#about">About</a>
   | 🏷️&nbsp;<a href="#dataset-description">Description</a>
-  | 🪄&nbsp;<a href="#use-cases">Usecase</a>
+  | 🗃️&nbsp;<a href="#Usage">Usage</a>
   | 🔗&nbsp;<a href="#citation">Citation</a>
   | 📝&nbsp;<a href="https://www.preprints.org/manuscript/202505.1150/v1" target="_blank">Paper</a>
 </p>
@@ -36,7 +36,7 @@ SCADataset is a dataset for Side-Channel Analysis (SCA) related to cryptographic
     - `0`: Original data
     - `1`: Dummy data
 
-## Use Cases
+## Usage
 This dataset can be used for the following research and analysis purposes:
 1. Analyzing the vulnerability of hiding techniques to side-channel attacks.
 2. Training machine learning models for side-channel analysis.
