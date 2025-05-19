@@ -9,8 +9,7 @@
 </p>
 
 This repository contains the dataset for the paper:
->Title: Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks \
->DOI: [10.20944/preprints202505.1150.v1](https://www.preprints.org/manuscript/202505.1150/v1) (Preprint)
+[Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks](https://www.preprints.org/manuscript/202505.1150/v1)
 
 ## About
 SCADataset is a dataset for Side-Channel Analysis (SCA) related to cryptographic algorithms. This dataset includes power consumption data during the execution of various cryptographic algorithms (DES, Hash, RSA) and can be utilized for research and analysis of side-channel analysis.
@@ -45,6 +44,8 @@ This dataset can be used for the following research and analysis purposes:
 
 ## Citation
 If you use this dataset for your research, please cite the following paper.
+>Title: Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks \
+>DOI: [10.20944/preprints202505.1150.v1](https://www.preprints.org/manuscript/202505.1150/v1) (Preprint)
 ```bibtex
 @article{park2025evalHiding,
   journal = {Preprints},
