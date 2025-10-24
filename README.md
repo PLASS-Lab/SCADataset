@@ -47,10 +47,10 @@ If you use this dataset for your research, please cite the following paper.
 >Title: Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks \
 >DOI: [10.20944/preprints202505.1150.v1](https://www.preprints.org/manuscript/202505.1150/v1) (Preprint)
 ```bibtex
-@article{park2025evalHiding,
-  journal = {Preprints},
+@article{park2025evaluating,
+  journal = {Applied Sciences},
   title = {Evaluating the Vulnerability of Hiding Techniques in Cyber-Physical Systems Against Deep Learning-Based Side-Channel Attacks},
-  doi = {10.20944/preprints202505.1150.v1},
+  doi = {https://www.mdpi.com/2076-3417/15/13/6981},
   author = {Park, Seungun and Seo, Aria and Cheong, Muyoung and Kim, Hyunsu and Kim, JaeCheol and Son, Yunsik},
   year = {2025}
 }
